@@ -1,0 +1,57 @@
+.formButtons {
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+#addBtn {
+ background-color:lime;
+ color:darkgreen;
+}
+
+#clearBtn {
+  background-color: steelblue;
+  color: white;
+}
+
+.delBtn {
+  height: auto;
+  width: auto;
+  font-size: 15px;
+  background-color: red;
+  color: white;
+}
+
+form {
+  border: 1px solid orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+input {
+  flex-grow: 1;
+  height: 50px;
+}
+
+.container {
+  background-color: yellow;
+  font-size: larger;  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.todoList {
+  background-color: white;
+  border: 3px solid blue;
+  font-size: larger;
+  height: 75%;
+  margin: 100px 100px 100px 100px;
+  padding: 20px;
+}
+
+.itemList{
+  min-height:50px;
+  border: 2px solid grey;
+}
