@@ -5,5 +5,7 @@
   "main": "app.js",
   "author": "Walker",
   "license": "MIT",
-  "dependencies": {}
-}git help git
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
