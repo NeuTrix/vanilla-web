@@ -17,8 +17,8 @@ button {
 }
 
 #addBtn {
- background-color:lime;
- color:darkgreen;
+ background-color:yellowgreen;
+ color: green;
 }
 
 #clearBtn {
@@ -26,13 +26,17 @@ button {
   color: white;
 }
 
-.delBtn {
+.deleteButton {
  height: 30px;
  width: 70px;
   font-size: 15px;
   background-color: red;
   color: white;
   border-radius: 5px;
+}
+
+li {
+  outline: 1px solid orange;
 }
 
 form {
@@ -67,5 +71,4 @@ input {
   padding-bottom: 10px;
   border-bottom: 1px dotted grey;
   justify-content: space-between;
-  /* align-content:flex-start; */
 }
