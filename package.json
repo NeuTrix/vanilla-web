@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-web",
+  "version": "1.0.0",
+  "description": "building a crud app from scratch",
+  "main": "app.js",
+  "author": "Walker",
+  "license": "MIT",
+  "dependencies": {}
+}
